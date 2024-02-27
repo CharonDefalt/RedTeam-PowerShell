@@ -1,3 +1,5 @@
+# First Open Powershell as admin then write this Import-Module "The_Modules" Then use the commnads 
+
 # Red Team Powershell Scripts
 
 ```
